@@ -1,0 +1,29 @@
+.container{
+    width: 500px;
+}
+
+.searchbox{
+    max-height: 350px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify;
+    border: solid 1px #DDD;
+}
+
+.cardItem{
+    cursor: pointer;
+}
+
+.cardItem .card:hover{
+    background-color:antiquewhite
+}
+
+.card-title span,
+.card-text span{
+    color: #00F;
+    font-weight: bold;
+}
+
+.no-result{
+    height: 200px;
+}
