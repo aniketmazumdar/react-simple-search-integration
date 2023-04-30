@@ -1,7 +1,7 @@
 # Simple React Search
 A single page Simple Search application on React JS
 
-![Screenshot](https://github.com/aniketmazumdar/simple-search-integration/blob/main/public/screenshot.png?raw=true)
+![Screenshot](/public/screenshot.png?raw=true)
 
 ## Description
 This app contains some user's data like ID, Name, Address, PIN. A input field is there. When we type any string on input box, matched user's data comes in the list. On the list element, matched string is highlighted on different color. Here mock json data is used instead of the api service.
